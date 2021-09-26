@@ -1,0 +1,19 @@
+{
+  "name": "smart-billing",
+  "version": "1.0.0",
+  "description": "A smart way to calculate revenue and bills for projects that are managed on Trello.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmadBinAbid/smart-billing.git"
+  },
+  "author": "Emad Bin Abid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmadBinAbid/smart-billing/issues"
+  },
+  "homepage": "https://github.com/EmadBinAbid/smart-billing#readme"
+}
